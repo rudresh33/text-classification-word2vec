@@ -4,3 +4,5 @@ gensim
 tensorflow
 numpy
 pandas
+matplotlib
+seaborn
